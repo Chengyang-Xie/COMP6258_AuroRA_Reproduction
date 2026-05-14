@@ -1,0 +1,7 @@
+python: 3.12.13
+torch: 2.10.0+cu128
+transformers: 5.8.0
+datasets: 4.8.5
+evaluate: 0.4.6
+cuda_available: True
+gpu_name: NVIDIA L4
